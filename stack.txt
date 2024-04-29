@@ -1,0 +1,8 @@
+stack:
+----
+ebp
+----
+ret (find)
+----
+"USER="
+----
